@@ -4,18 +4,21 @@ I'm a perpetual learner with an insatiable passion for technology, embarking on 
 
 I've already ventured into the realm of APIs using Node, and now I'm eager to combine it with React to shape comprehensive web applications.
 
-Presently, I'm pursuing my studies in Information Systems at UFU. Beyond academics, my NES-dev repository is a testament to my penchant for exploring the intricacies of the digital world. I often find myself delving into the fascinating low-level details that underpin our technology-driven existence. 💡
+Presently, I'm pursuing my studies in Information Systems at UFU. Beyond academics, my [NES-dev](https://github.com/roddrigoqueiroz/nes-dev) repository is a testament to my penchant for exploring the intricacies of the digital world. I often find myself delving into the fascinating low-level details that underpin our technology-driven existence. 💡
 
 In collaboration with friends, I've had the pleasure of working on notable projects, including "Astro Oddity," our final OOP2 endeavor for university. It's been an inspiring journey, and I'm excited to continue exploring the boundaries of technology and creativity.
 
-<br>
+
+## Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=roddrigoqueiroz&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddrigoqueiroz&layout=compact&theme=gotham&hide_border=true" alt="Top Languages">
 </div>
 
-## Languages and Tools
+<br>
+
+### Languages and Tools
 
 <a href="https://www.w3schools.com/c/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40">
