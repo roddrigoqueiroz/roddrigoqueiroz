@@ -6,16 +6,7 @@ While pursuing my degree in Information Systems at UFU, I also dedicate time to 
 
 I also enjoy collaborating on creative projects, like "Astro Oddity," a game I helped develop for our OOP2 course.
 
-## Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=roddrigoqueiroz&show_icons=true&theme=gotham&hide_border=true&rank_icon=github" alt="GitHub Stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddrigoqueiroz&layout=compact&theme=gotham&hide_border=true" alt="Top Languages">
-</div>
-
-<br>
-
-### Languages and Tools
+## Languages and Tools
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
